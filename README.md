@@ -1,7 +1,7 @@
 # 💫 About Me:
 "Hi there! I'm a Sophomore Computer Science undergraduate passionate about building scalable web applications and solving algorithmic problems. My journey involves navigating the depths of Data Structures in C++ & Java while crafting modern user experiences using the MERN stack."
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building Step by Step...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+and+Building+with+Passion...)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshchandra_001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-chandra-848723324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Chandraharsh094@gmail.com) 
 
